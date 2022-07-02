@@ -15,7 +15,7 @@ body{
     position: absolute;
     transform: translate(-50%,-50%);
     box-sizing: border-box;
-    background-color: aqua;
+    
   }
  
  div img{
@@ -28,4 +28,5 @@ body{
   div form{
     width: 420px;
     height: 320px;
+    background-color: aqua;
   }
