@@ -38,7 +38,8 @@ font-size: 22px;
     background-color: whitesmoke;
     position: absolute;
     top: -15%;
-    left:40% 
+    left:40% ;
+    border-radius: 20px;
   }
 
   div p{
@@ -64,7 +65,7 @@ font-size: 16px;
   height: 20px;
   color: gold;
   font-size: 16px;
-  border-radius: 20px;
+ 
  }
 
  div form input[type="submit"] :hover{
@@ -82,5 +83,5 @@ color: black;
 
  div a:hover{
   color:crimson;
-  
+
  }
