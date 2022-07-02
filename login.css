@@ -12,7 +12,7 @@ h1{
 margin: 0;
 padding: 0 0 20px;
 text-align: center;
-font-size: 22px;
+font-size: 32px;
 
 
 
@@ -27,7 +27,7 @@ font-size: 22px;
     background-color: aqua;
     width: 420px;
     height: 320px;
-    padding: 70px 30px;
+    padding: 90px 30px;
     
   }
  
@@ -41,6 +41,22 @@ font-size: 22px;
     left:60% 
   }
 
+  div p{
+    font-weight: bold;
+  }
   div form{
     bottom: 50%;
+    width:100%;
+    margin-bottom:20px;
   }
+
+ div form input[type="text"], input[type="password"] {
+border: none;
+border-bottom: 1px solid #fff;
+background: transparent;
+outline: none;
+height: 40px;
+
+ }
+
+
