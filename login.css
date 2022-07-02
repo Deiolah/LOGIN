@@ -44,11 +44,10 @@ font-size: 22px;
   div p{
     font-weight: bold;
   }
+  div form input{
+    width: 100%;
+  }
 
-div form input{
-  width: 100px;
-  margin-bottom:20px;
-}
  div form input[type="text"], input[type="password"] {
 border: none;
 border-bottom: 1px solid #fff;
