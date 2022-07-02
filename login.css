@@ -24,7 +24,7 @@ font-size: 22px;
     position: absolute;
     transform: translate(-50%,-50%);
     box-sizing: border-box;
-    background-color: aqua;
+    background-color: black;
     width: 420px;
     height: 320px;
     padding: 20px 30px;
@@ -44,10 +44,11 @@ font-size: 22px;
   div p{
     font-weight: bold;
   }
-  div form{
-    margin-bottom:20px;
-  }
 
+div form input{
+  width: 100px;
+  margin-bottom:20px;
+}
  div form input[type="text"], input[type="password"] {
 border: none;
 border-bottom: 1px solid #fff;
