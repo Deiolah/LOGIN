@@ -16,6 +16,9 @@ body{
     transform: translate(-50%,-50%);
     box-sizing: border-box;
     background-color: aqua;
+    width: 420px;
+    height: 320px;
+    
   }
  
  div img{
@@ -24,11 +27,10 @@ body{
     border-radius: 50%;
     background-color: whitesmoke;
     position: absolute;
-    top: -15%;
+    top: -50%;
+    left:calc(50% -50px)
   }
 
   div form{
-    width: 420px;
-    height: 320px;
-    bottom:70%;
+    
   }
