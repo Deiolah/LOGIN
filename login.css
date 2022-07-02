@@ -27,7 +27,7 @@ font-size: 32px;
     background-color: aqua;
     width: 420px;
     height: 320px;
-    padding: 90px 30px;
+    padding: 70px 30px;
     
   }
  
@@ -37,8 +37,8 @@ font-size: 32px;
     border-radius: 50%;
     background-color: whitesmoke;
     position: absolute;
-    top: -50%;
-    left:60% 
+    top: -30%;
+    left:55% 
   }
 
   div p{
