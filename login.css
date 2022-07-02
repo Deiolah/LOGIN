@@ -28,9 +28,9 @@ body{
     background-color: whitesmoke;
     position: absolute;
     top: -50%;
-    left:calc(50% -50px)
+    left:80% 
   }
 
   div form{
-    
+    bottom: 50%;
   }
