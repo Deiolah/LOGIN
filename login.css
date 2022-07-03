@@ -34,11 +34,9 @@ font-size: 22px;
 div header img{
     width: 100px;
     height: 100px;
-    background-color: whitesmoke;
     position: absolute;
-    border-radius: 20px;
-    padding: 0px ;
-    top: -15%;
+    padding: 40px;
+    top: 0%;
     left: 0% ;
   }
 
