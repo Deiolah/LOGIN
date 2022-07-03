@@ -31,7 +31,7 @@ font-size: 22px;
     border-radius: 20px;
   }
  
-header img{
+div header img{
     width: 100px;
     height: 100px;
     background-color: whitesmoke;
@@ -39,7 +39,7 @@ header img{
     border-radius: 20px;
     padding: 0px ;
     top: -15%;
-    left:40% ;
+    left: 0% ;
   }
 
   div p{
