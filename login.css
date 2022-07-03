@@ -31,13 +31,10 @@ font-size: 22px;
     border-radius: 20px;
   }
  
-div header img{
+ img{
     width: 100px;
     height: 100px;
-    position: absolute;
-    padding: 40px;
-    top: 0%;
-    left: 0% ;
+   
   }
 
   div p{
