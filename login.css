@@ -10,9 +10,9 @@ body{
   
 h1{
 margin: 0;
-padding: 0 0 125%;
+padding: 0 0 20px;
 text-align: left;
-font-size: 137.5%;
+font-size: 22px;
 
 
 
@@ -25,18 +25,18 @@ font-size: 137.5%;
     transform: translate(-50%,-50%);
     box-sizing: border-box;
     background-color: aqua;
-    width: 2625%px;
-    height: 2000%;
-    padding: 125% 187.5%;
-    border-radius: 125%;
+    width: 420px;
+    height: 320px;
+    padding: 20px 30px;
+    border-radius: 20px;
   }
  
- header img{
-    width: 625%;
-    height: 625%;
+  div img{
+    width: 100px;
+    height: 100px;
     background-color: whitesmoke;
     position: absolute;
-    border-radius: 125%;
+    border-radius: 20px;
     padding: 0px ;
     top: -15%;
     left:40% ;
@@ -51,23 +51,23 @@ font-size: 137.5%;
 
  div form input[type="text"], input[type="password"] {
 border: none;
-border-bottom: 6.25% solid #fff;
+border-bottom: 1px solid #fff;
 background: transparent;
 outline: none;
-height: 187.5%px;
+height: 30px;
 color: #fff;
-font-size: 100%;
-border-radius: 125%;
+font-size: 16px;
+border-radius: 20px;
  }
 
  div form input[type="submit"]{
   border:none;
   outline:none;
-  height: 125%;
+  height: 20px;
   color: gold;
-  font-size: 100%;
+  font-size: 16px;
  background: navy;
- border-radius: 125%;
+ border-radius: 20px;
  }
 
  div form input[type="submit"] :hover{
@@ -77,9 +77,9 @@ color: black;
  }
 
  div a{
-  tect-decoration: none;
-  font-size: 75%;
-  line-height: 125%;
+  teXt-decoration: none;
+  font-size: 12px;
+  line-height: 20px;
   color: blueviolet;
  }
 
