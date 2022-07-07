@@ -85,11 +85,11 @@ color: black;
  }
 .atag{
     position: absolute;
-    
+    bottom:10px
     display:inline;
 }
 div1 a{
-        background-color: navy;
+        background-color: aqua;
         color: black;
         border-radius: 10px;
         padding: 40px;
